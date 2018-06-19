@@ -1,0 +1,13 @@
+{
+"companyName": "Mapedorr",
+"productName": "Short-term Battery",
+"dataUrl": "Short-termBattery_Web.data.unityweb",
+"asmCodeUrl": "Short-termBattery_Web.asm.code.unityweb",
+"asmMemoryUrl": "Short-termBattery_Web.asm.memory.unityweb",
+"asmFrameworkUrl": "Short-termBattery_Web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#214352"
+}
